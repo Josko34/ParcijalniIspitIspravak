@@ -1,0 +1,2 @@
+# ParcijalniIspitIspravak
+Ispravak
