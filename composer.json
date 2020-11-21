@@ -1,0 +1,5 @@
+{
+    "require": {
+        "media24si/nova-youtube-field": "^1.0"
+    }
+}
